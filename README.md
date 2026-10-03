@@ -1,2 +1,4 @@
-# business-card
-afia's business card yay
+# Business Card
+
+## Schematic
+![Schematic](asset/schematic.png)
